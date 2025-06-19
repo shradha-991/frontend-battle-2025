@@ -16,8 +16,8 @@ This project is a responsive landing page built as part of Round 1 of the Fronte
 
 ## 🚀 Live Preview
 
-🌐 Live Link:   
-🔗 GitHub Repo: 
+🌐 Live Link:   https://6853e3ff9ad9955fce99aecf--illustrious-douhua-7ecab1.netlify.app/
+🔗 GitHub Repo: https://github.com/shradha-991/frontend-battle-2025.git
 
 ---
 
